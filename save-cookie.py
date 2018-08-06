@@ -20,8 +20,8 @@ def send_msg(msg):
     print('发送弹幕成功！')
 
 
-qq_user = '932649495'
-qq_pass = 'woshi150031'
+qq_user = '**********'
+qq_pass = '**********'
 login_url = 'https://passport.douyu.com/member/login'
 room_id = '57321'
 url = "https://www.douyu.com/" + room_id
